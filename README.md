@@ -1,9 +1,4 @@
-# Hello! Welcome to a demo page
-Publishing my resume as a github page
-Hello World!
 
-
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
