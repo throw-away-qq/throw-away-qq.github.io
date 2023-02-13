@@ -11,20 +11,20 @@ Hello World!
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Carolyn Stransky | 💻✒️📄🌟</title>
+<title>Rajat Verma | 💻✒️📄🌟</title>
 <meta name="generator" content="Jekyll v3.9.2" />
-<meta property="og:title" content="Carolyn Stransky" />
+<meta property="og:title" content="Rajat Verma" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Carolyn Stransky’s CV" />
-<meta property="og:description" content="Carolyn Stransky’s CV" />
-<link rel="canonical" href="https://carolstran.github.io/cv/" />
-<meta property="og:url" content="https://carolstran.github.io/cv/" />
+<meta name="description" content="Rajat Verma’s CV" />
+<meta property="og:description" content="Rajat Verma’s CV" />
+<link rel="canonical" href="https://throw-away-qq.github.io/cv/" />
+<meta property="og:url" content="https://throw-away-qq.github.io/cv/" />
 <meta property="og:site_name" content="💻✒️📄🌟" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Carolyn Stransky" />
+<meta property="twitter:title" content="Rajat Verma" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Carolyn Stransky’s CV","headline":"Carolyn Stransky","name":"💻✒️📄🌟","url":"https://carolstran.github.io/cv/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"Rajat Verma’s CV","headline":"Rajat Verma","name":"💻✒️📄🌟","url":"https://throw-away-qq.github.io/cv/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/cv/assets/css/style.css?v=e409404d27d11e12f8342b9a876bf20646d37c10">
@@ -46,7 +46,7 @@ Hello World!
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="https://carolstran.github.io/cv/">💻✒️📄🌟</a></h1>
+        <h1><a href="https://throw-away-qq.github.io/cv/">💻✒️📄🌟</a></h1>
 
         
 
