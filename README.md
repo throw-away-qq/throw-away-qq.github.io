@@ -37,32 +37,11 @@
 
 <!-- end custom head snippets -->
 
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="https://throw-away-qq.github.io/cv/">💻✒️📄🌟</a></h1>
 
-        
+<p><em>Experienced Data Scientist based in New Delhi IN</em> <br /></p>
 
-        <p>Carolyn Stransky's CV</p>
-
-        
-        <p class="view"><a href="https://github.com/carolstran/cv">View the Project on GitHub <small>carolstran/cv</small></a></p>
-        
-
-        
-
-        
-      </header>
-      <section>
-
-      <h1 id="carolyn-stransky">Carolyn Stransky</h1>
-
-<p><em>Software engineer and journalist based in Berlin 🇩🇪</em> <br /></p>
-
-<p><a href="mailto:hello@workwithcarolyn.com">Email</a> / <a href="https://workwithcarolyn.com/">Website</a> / <a href="https://www.linkedin.com/in/carolstran/">LinkedIn</a> / <a href="https://github.com/carolstran/">GitHub</a> / <a href="https://twitter.com/carolstran/">Twitter</a> / <a href="https://dev.to/carolstran/">DEV</a></p>
-
+<p><a href="mailto:rajatverma212@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/carolstran/">LinkedIn</a> / <a href="https://github.com/throw-away-qq/">GitHub</a> / <a href="https://twitter.com/carolstran/">Twitter</a> / 
+  
 <h2 id="-engineering-experience">👩🏼‍💻 Engineering Experience</h2>
 
 <p><strong>Frontend Engineer</strong> @ <a href="https://bryter.com/">BRYTER</a> <em>(Dec 2020 - Present)</em> <br />
