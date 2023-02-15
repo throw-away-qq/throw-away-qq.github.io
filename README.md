@@ -11,7 +11,7 @@
 Hello! Welcome to my page. I am Rajat. I am a Seasoned Data Scientist based out of Delhi. I have a background in Industrial and Systems enginnering from IIT Kharagpur. I have implemented Data Science solutions on vaired Industry settings - Ranging from retail to Media and Consulting. I believe in delivering end-to-end solutions with meaningful imapct. Natural Language Processing and Recommendations Systesms spark my interests. Integrity, Hardwork and Curiosity have been my key drivers in my carrer. I am a proud parent of 3 ginger cats and I love hiking across himalayas in my leisure.  
 
 <p align="left">
-  <img src="images/rajat.jpg" />
+  <img src="images/rajat.jpg" width="48"/>
 </p>
 
 ### Work Experience
