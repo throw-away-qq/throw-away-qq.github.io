@@ -1,17 +1,29 @@
-# H1
+<!-- # H1
 ## H2
 ### H3
 #### H4
 ##### H5
-###### H6
+###### H6 -->
 
-Alternatively, for H1 and H2, an underline-ish style:
+# Rajat Verma
+
+### Professional Background
+Hello! I am Rajat. I am a Seasoned Data Scientist based out of Delhi. In past I have worked with 
+
+
+Reference-style: 
+![alt text][iamge]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
+<!-- Alternatively, for H1 and H2, an underline-ish style:
 
 Alt-H1
 ======
 
 Alt-H2
-------
+------ -->
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
