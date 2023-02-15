@@ -8,8 +8,7 @@
 # Rajat Verma
 
 ### About me!
-Hello! Welcome to my page. I am Rajat. I am a Seasoned Data Scientist based out of Delhi. I have a background in Industrial and Systems enginnering from IIT Kharagpur. I have implemented Data Science solutions on varied Industry settings - Ranging from retail to Media and Consulting. I believe in delivering end-to-end solutions with meaningful imapct. Integrity, Hardwork and Curiosity have been my key drivers in my carrer. I am a proud parent of 3 ginger cats and I love hiking across himalayas in my leisure.  
-
+Hello! Welcome to my page. I am Rajat. I am a Seasoned Data Scientist based out of Delhi. I have a background in Industrial and Systems enginnering from IIT Kharagpur. I have implemented Data Science solutions on vaired Industry settings - Ranging from retail to Media and Consulting. I believe in delivering end-to-end solutions with meaningful imapct. Natural Language Processing and Recommendations Systesms spark my interests. Integrity, Hardwork and Curiosity have been my key drivers in my carrer. I am a proud parent of 3 ginger cats and I love hiking across himalayas in my leisure.  
 
 ### Work Experience
 #### The Home Depot - _on payroll of Decision Culture_
@@ -49,9 +48,8 @@ Python, Pandas, Numpy, sklearn, transformers, optimum, datasets, Keras, Pytorch,
 
 
 Reference-style: 
-![alt text][iamge]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![alt text][rajat]
+[rajat]: https://https://github.com/throw-away-qq/throw-away-qq.github.io/tree/main/images/rajat.jpg "Rajat"
 
 
 <!-- Alternatively, for H1 and H2, an underline-ish style:
@@ -106,11 +104,6 @@ Here's our logo (hover to see the title text):
 
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 Inline `code` has `back-ticks around` it.
 
