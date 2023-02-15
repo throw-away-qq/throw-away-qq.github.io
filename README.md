@@ -47,7 +47,7 @@ interviews with flexibility of sending automated mailers
 Python, Pandas, Numpy, sklearn, transformers, optimum, datasets, Keras, Pytorch, SQL, VBA, 
 
 
-![rajat](https://github.com/throw-away-qq/throw-away-qq.github.io/tree/main/images/rajat.jpg)
+![rajat](images/rajat.jpg)
 
 
 
