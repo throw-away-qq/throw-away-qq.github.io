@@ -14,9 +14,13 @@
 ### About me!
 Hello! Welcome to my page. I am Rajat. I am a Seasoned Data Scientist based out of Delhi. I have a background in Industrial and Systems enginnering from IIT Kharagpur. I have implemented Data Science solutions on vaired Industry settings - Ranging from retail to Media and Consulting. I believe in delivering end-to-end solutions with meaningful imapct. Natural Language Processing and Recommendations Systesms spark my interests. Integrity, Hardwork and Curiosity have been my key drivers in my carrer. I am a proud parent of 3 ginger cats and I love hiking across himalayas in my leisure.  
 
+Currently I am working as a Senior Data Scientist for Center Of Excellence Team at The Home Depot. 
+
 ***
 ### Work Experience
 #### The Home Depot - _on payroll of Decision Culture_
+* Lookalike-Modeling: Framework for semi-supervised learning on Retail Data
+* Customer Lifetime Value models with Adverse Events Impact Assessment
 
 #### Times Internet - Economic Times
 * *Economic Times Newsletter*: Implemented News Recommendation pipeline for 1.5M users for ET leading to
@@ -49,8 +53,13 @@ interviews with flexibility of sending automated mailers
 
 ***
 ### Programming languages
-Python, Pandas, Numpy, sklearn, transformers, optimum, datasets, Keras, Pytorch, SQL, VBA, 
+Python, Pandas, Numpy, sklearn, Pytorch, Tensorflow, Keras, Transformers, SQL, VBA
+
 ***
+
+### Projects
+* Motion Following camera using Arduino Uno and IR sensors
+* Smart Scheduling Tools for Recruiters
 
 <!-- ![rajat](images/rajat.jpg) -->
 
@@ -63,7 +72,7 @@ Alt-H1
 
 Alt-H2
 ------ -->
-
+<!-- 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
@@ -176,4 +185,4 @@ This line is separated from the one above by two newlines, so it will be a *sepa
 
 This line is also a separate paragraph, but...
 This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
-
+ -->
