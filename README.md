@@ -12,7 +12,13 @@
 </p>
 
 ### About me!
-Hello! Welcome to my page. I am Rajat. I am a Seasoned Data Scientist based out of Delhi. I have a background in Industrial and Systems enginnering from IIT Kharagpur. I have implemented Data Science solutions on vaired Industry settings - Ranging from retail to Media and Consulting. I believe in delivering end-to-end solutions with meaningful imapct. Natural Language Processing and Recommendations Systesms spark my interests. Integrity, Hardwork and Curiosity have been my key drivers in my carrer. I am a proud parent of 3 ginger cats and I love hiking across himalayas in my leisure.  
+Hi! I'm Rajat, a Data Scientist with 4 years of experience, based in Delhi.
+
+I have a background in Industrial and Systems engineering from IIT Kharagpur. I have extensive experience providing sophisticated Data Science solutions to organizations from a range of industries, including retail, media, and consulting. I specialize in creating meaningful, impactful solutions. My key interests lie in Natural Language Processing and Recommendation Systems. I have achieved success in my career through rigorous work, integrity, and a passion for learning. 
+
+I have 3 ginger cats, and I enjoy hiking in the Himalayas in my spare time.
+
+Currently I am working as a Senior Data Scientist for Center Of Excellence Team at The Home Depot.
 
 Currently I am working as a Senior Data Scientist for Center Of Excellence Team at The Home Depot. 
 
@@ -23,10 +29,12 @@ Currently I am working as a Senior Data Scientist for Center Of Excellence Team 
 * Customer Lifetime Value models with Adverse Events Impact Assessment
 
 #### Times Internet - Economic Times
-* *Economic Times Newsletter*: Implemented News Recommendation pipeline for 1.5M users for ET leading to
-15.3% CTR from 4.8%. Apache Airflow Setup for scheduling, monitoring and logging
+* *Economic Times Newsletter*: Created news recommendation pipeline for 1.5 million users to increase click-through rate from 4.8% to 15.3% using Apache Airflow for scheduling, monitoring, and logging
 * *News Summarisation API*: Google’s Pegasus-Large Model customized for ET markets data and finetuned for
 English Summarization. Built Flask API as an endpoint which is currently in production
+
+* *Summarization for Indic Languages*: Tested on various statistical summarization methods for Bangla, Tamil, Telugu, Malyalam, Marathi and Gujarati News
+
 * *Keyword Recommendation for Articles (BERT + Solr)*: Designed a system for recommending Keywords
 for articles using Solr. Indexed Wikipedia data in solr search engine. Used BM25 for coarse search and BERT
 embeddings for ranking. Tested for 10 searches per second over 6M articles
