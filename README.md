@@ -13,7 +13,7 @@
 
 ### About me!
 Hi! I'm Rajat, a Data Scientist with 4 years of experience, based in Delhi.
-I have a background in Industrial and Systems engineering from IIT Kharagpur. I have extensive experience providing sophisticated Data Science solutions to organizations from a range of industries, including retail, media, and consulting. I specialize in creating meaningful, impactful solutions. My key interests lie in Natural Language Processing and Recommendation Systems. I have achieved success in my career through rigorous work, integrity, and a passion for learning. 
+I have a background in Industrial and Systems engineering from IIT Kharagpur. I have extensive experience in solving problems through Data Science in organizations from a range of industries, including retail, media, and consulting. I believe in creating simple and impactful solutions. My key interests lie in Natural Language Processing and Recommendation Systems. I have achieved success in my career through rigorous work, integrity, and a passion for learning. 
 I have 3 ginger cats, and I enjoy hiking in the Himalayas in my spare time.
 
 Currently I am working as a Senior Data Scientist at The Home Depot.
