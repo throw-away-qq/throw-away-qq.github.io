@@ -12,7 +12,7 @@
 </p>
 
 ### About me!
-Hi! I'm Rajat, a Data Scientist with 4 years of experience, based in Delhi.
+Hi! I'm Rajat, a Data Scientist with 6 years of experience, based in Delhi.
 I have a background in Industrial and Systems engineering from IIT Kharagpur. I have extensive experience in solving problems through Data Science in organizations from a range of industries, including retail, media, and consulting. I believe in creating simple and impactful solutions. My key interests lie in Natural Language Processing and Recommendation Systems. I have achieved success in my career through rigorous work, integrity, and a passion for learning. 
 I have 3 ginger cats, and I enjoy hiking in the Himalayas in my spare time.
 
@@ -21,8 +21,9 @@ Currently I am working as a Senior Data Scientist at The Home Depot.
 ***
 ### Work Experience
 #### The Home Depot - _on payroll of Decision Culture_
-* Lookalike-Modeling: Framework for semi-supervised learning on Retail Data
-* Customer Lifetime Value models with Adverse Events Impact Assessment
+* **Lookalike-Modeling*: Framework for semi-supervised learning on Retail Data
+* *Causal Analysis*: Devised a structured framework to quantatively determine impact of adverse events on Home Depot Customers using observational data
+* *Propensity Models*: Devised new features to improve performance of Class Propensity Models upto 15%
 
 #### Times Internet - Economic Times
 * *Economic Times Newsletter*: Created news recommendation pipeline for 1.5 million users to increase click-through rate from 4.8% to 15.3% using Apache Airflow for scheduling, monitoring, and logging
