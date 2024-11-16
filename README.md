@@ -21,6 +21,7 @@ Currently I am working as a Senior Data Scientist at The Home Depot.
 ***
 ### Work Experience
 #### The Home Depot - _on payroll of Decision Culture_
+* *Next Best Action*: Created a highly parametrized python package to enable teams to create features for Next Best Action Sequence Model. Enabled data science and analytics teams to train performant sequence models for recommender systems
 * *Lookalike-Modeling*: Framework for semi-supervised learning on Retail Data
 * *Causal Analysis*: Devised a structured framework to quantatively determine impact of adverse events on Home Depot Customers using observational data
 * *Propensity Models*: Devised new features to improve performance of Class Propensity Models upto 15%
