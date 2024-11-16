@@ -20,7 +20,7 @@ Currently I am working as a Lead Data Scientist at The Home Depot.
 
 ***
 ### Educational Background
-Indian Institute of Technology Kharagpur | Dual Degree: Industrial and Systems Engineering (B.Tech & M.Tech) | Class of 2018
+**IIT Kharagpur** - **Industrial and Systems Engineering** - **Dual Degree** (B.Tech & M.Tech) | **Class of 2018**
 
 ***
 ### Work Experience
