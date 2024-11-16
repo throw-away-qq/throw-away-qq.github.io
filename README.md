@@ -19,6 +19,10 @@ I have 3 ginger cats, and I enjoy hiking in the Himalayas in my spare time.
 Currently I am working as a Lead Data Scientist at The Home Depot.
 
 ***
+### Educational Background
+Indian Institute of Technology Kharagpur | Dual Degree: Industrial and Systems Engineering (B.Tech & M.Tech) | Class of 2018
+
+***
 ### Work Experience
 #### Lead Data Scientist at The Home Depot (via Decision Culture)
 * *Next Best Action*: Developed a configurable Python package for Next Best Action Sequence Models, enabling data science teams to train performant recommenders, and enhancing customer experiences across The Home Depot.
@@ -68,7 +72,7 @@ Python, Pandas, Numpy, sklearn, Pytorch, Tensorflow, Keras, Transformers, SQL, V
 ### Projects/Blogs
 * Sequencetial Recommender in Production [Recbole] [https://throw-away-qq.github.io/recbole_to_production/]
 * Motion Following camera using Arduino Uno and IR sensors
-* Smart Scheduling Tools for Recruiters
+* Smart Scheduling Tools for Recruiters in VBA
 
 <!-- ![rajat](images/rajat.jpg) -->
 <!-- 
