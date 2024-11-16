@@ -20,13 +20,15 @@ Currently I am working as a Lead Data Scientist at The Home Depot.
 
 ***
 ### Work Experience
-#### The Home Depot - _on payroll of Decision Culture_
-* *Next Best Action*: Created a highly parametrized python package to enable teams to create features for Next Best Action Sequence Model. Enabled data science and analytics teams to train performant sequence models for recommender systems
-* *Lookalike-Modeling*: Framework for semi-supervised learning on Retail Data. Tested and verified the efficacy of causal inference methods against in-house A/B tests on THD Mobile App
-* *Causal Inference*: Devised a structured framework to quantatively determine impact of adverse events on Home Depot Customers using observational data
-* *Propensity Models*: Devised new features to improve performance of Class Propensity Models upto 15%
+#### Lead Data Scientist at The Home Depot (via Decision Culture)
+* *Next Best Action*: Developed a configurable Python package for Next Best Action Sequence Models, enabling data science teams to train performant recommenders, and enhancing customer experiences across The Home Depot.
+* *Causal Inference Framework for Customer Insights*: Devised a reusable causal inference framework, enabling cross-functional teams to quantify the impact of adverse events on customer behavior, including:
+  * Email Opt-out Revenue Impact Analysis: Quantified potential revenue loss per customer due to email opt-outs, informing targeted retention strategies.
+  * Validated Framework Efficacy: Successfully validated the framework's results against a Mobile App team's A/B test, achieving >99% alignment in measured lift, and demonstrating the framework's reliability for future use cases.
+* *Lookalike-Modeling*: Framework for semi-supervised learning on Retail Data. Helped create customer persona based on spend history, demographics, browsing patterns for effective targeting
+* *Propensity Models Improvement*: Studied exising propensity models, and devised new features to improve performance of Class Propensity Models upto 15% 
 
-#### Times Internet - Economic Times
+#### Senior Data Scientist at Times Internet - Economic Times
 * *Economic Times Newsletter*: Created news recommendation pipeline for 1.5 million users to increase click-through rate from 4.8% to 15.3% using Apache Airflow for scheduling, monitoring, and logging
 * *News Summarisation API*: Google’s Pegasus-Large Model customized for ET markets data and finetuned for
 English Summarization. Built Flask API as an endpoint which is currently in production
@@ -39,7 +41,7 @@ embeddings for ranking. Tested for 10 searches per second over 6M articles
 * *Hack and Hustle 3.0 Hackathon Finalist 2022*: Lead a team of 3 senior developers to build a Twitter Social
 listening API to provide Sentiment, Subjectivity and Engagement Insights on user specified Stocks
 
-#### ZS
+#### Data Scientist at ZS
 * *Rare Disease Identification using EHR*: Devised PU-Classifier using GANs. Automated Rare Disease
 Identification pipeline from Electronic Health Records , leading to lead time reduction from weeks to 10 work hours
 * *Compliance Prediction and Monitoring*: Resource level Non-Compliance prediction for fortune 100 Hi-Tech
