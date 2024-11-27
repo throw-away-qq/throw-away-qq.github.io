@@ -70,7 +70,7 @@ Python, Pandas, Numpy, sklearn, Pytorch, Tensorflow, Keras, Transformers, SQL, V
 ***
 
 ### Projects/Blogs
-* Sequencetial Recommender in Production [Recbole] [https://throw-away-qq.github.io/recbole_to_production/]
+* Sequential Recommender in Production [Recbole] [https://throw-away-qq.github.io/recbole_to_production/]
 * Motion Following camera using Arduino Uno and IR sensors
 * Smart Scheduling Tools for Recruiters in VBA
 
