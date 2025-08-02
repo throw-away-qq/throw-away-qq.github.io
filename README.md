@@ -24,8 +24,8 @@ Currently I am working as a Lead Data Scientist at The Home Depot.
 
 ***
 ### Work Experience
-#### Lead Data Scientist at The Home Depot (via Decision Culture)
-* *Next Best Action*: Developed a configurable Python package for Next Best Action Sequence Models, enabling data science teams to train performant recommenders, and enhancing customer experiences across The Home Depot.
+#### Lead Data Scientist at The Home Depot (on Payroll of Decision Culture)
+* *Next Best Action*: Developed a configurable Python package for Next Best Action Sequence Models, offering flexible integration of diverse Keras layers (LSTM, 1D CNN, Attention) via a centralized model collection file. This empowered data science teams to rapidly train and deploy performant recommenders, significantly enhancing marking outcomes at The Home Depot.
 * *Causal Inference Framework for Customer Insights*: Devised a reusable causal inference framework, enabling cross-functional teams to quantify the impact of adverse events on customer behavior, including:
   * Email Opt-out Revenue Impact Analysis: Quantified potential revenue loss per customer due to email opt-outs, informing targeted retention strategies.
   * Validated Framework Efficacy: Successfully validated the framework's results against a Mobile App team's A/B test, achieving >99% alignment in measured lift, and demonstrating the framework's reliability for future use cases.
@@ -34,10 +34,9 @@ Currently I am working as a Lead Data Scientist at The Home Depot.
 
 #### Senior Data Scientist at Times Internet - Economic Times
 * *Economic Times Newsletter*: Created news recommendation pipeline for 1.5 million users to increase click-through rate from 4.8% to 15.3% using Apache Airflow for scheduling, monitoring, and logging
-* *News Summarisation API*: Google’s Pegasus-Large Model customized for ET markets data and finetuned for
-English Summarization. Built Flask API as an endpoint which is currently in production
+* *News Summarisation using LLM*: Google’s Pegasus-Large Model finetined for ET markets data summarization. Built Flask API as an endpoint which is currently in production
 
-* *Summarization for Indic Languages*: Tested on various statistical summarization methods for Bangla, Tamil, Telugu, Malyalam, Marathi and Gujarati News
+* *Summarization for Indic Languages*: Tested summarization models for Bangla, Tamil, Telugu, Malyalam, Marathi and Gujarati News
 
 * *Keyword Recommendation for Articles (BERT + Solr)*: Designed a system for recommending Keywords
 for articles using Solr. Indexed Wikipedia data in solr search engine. Used BM25 for coarse search and BERT
@@ -46,10 +45,9 @@ embeddings for ranking. Tested for 10 searches per second over 6M articles
 listening API to provide Sentiment, Subjectivity and Engagement Insights on user specified Stocks
 
 #### Data Scientist at ZS
-* *Rare Disease Identification using EHR*: Devised PU-Classifier using GANs. Automated Rare Disease
-Identification pipeline from Electronic Health Records , leading to lead time reduction from weeks to 10 work hours
-* *Compliance Prediction and Monitoring*: Resource level Non-Compliance prediction for fortune 100 Hi-Tech
-client, leading to 23% reduction in non-compliance and $ 150K savings over 6 months
+* *Rare Disease Identification using EHR*: Devised Positive Unlabelled Classifier for Rare Disease
+Identification from Electronic Health Data, leading to lead time reduction from weeks to 10 work hours
+* *Compliance Prediction and Monitoring*: Resource level Non-Compliance prediction for fortune 100, leading to 23% reduction in non-compliance and $ 150K savings over 6 months
 * *Asymptomatic Liver Disease Progression Modeling*: Predicted high risk NASH patients with 86% AUROC
 in EHR, identified 4 additional non invasive markers for fast-progressing NASH. Model was used for identifying
 patients for their focused treatment and higher enrollment in clinical trials
