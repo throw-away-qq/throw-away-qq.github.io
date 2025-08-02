@@ -16,7 +16,7 @@ Hi! I'm Rajat, a Data Scientist with 6 years of experience, based in Delhi.
 I have a background in Industrial and Systems engineering from IIT Kharagpur. I have extensive experience in solving problems through Data Science in organizations from a range of industries, including retail, media, and consulting. My key interests lie in Natural Language Processing and Recommendation Systems. My approach centers on developing streamlined, high-impact solutions. Throughout my career, I've driven success through taking initiative, diligence, and an unwavering commitment to continuous improvement.
 I have 3 ginger cats, and I enjoy hiking in the Himalayas in my spare time.
 
-Currently I am working as a Lead Data Scientist at The Home Depot.
+Currently I am working as a Lead Data Scientist at Decision Culture for The Home Depot.
 
 ***
 ### Educational Background
@@ -68,6 +68,7 @@ Python, Pandas, Numpy, sklearn, Pytorch, Tensorflow, Keras, Transformers, SQL, V
 ***
 
 ### Projects/Blogs
+* Vibe Coded Screen Scape, a client-side web tool using React, Vite, and Tailwind CSS with daisyUI, enabling users to visualize and compare computer monitor sizes interactively in real-world scale. [link](https://throw-away-qq.github.io/ScreenScape/)
 * Sequential Recommender in Production [Recbole] [https://throw-away-qq.github.io/recbole_to_production/]
 * Motion Following camera using Arduino Uno and IR sensors
 * Smart Scheduling Tools for Recruiters in VBA
