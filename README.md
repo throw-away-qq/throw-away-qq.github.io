@@ -36,7 +36,7 @@ Currently I am working as a Lead Data Scientist at The Home Depot.
 * *Economic Times Newsletter*: Created news recommendation pipeline for 1.5 million users to increase click-through rate from 4.8% to 15.3% using Apache Airflow for scheduling, monitoring, and logging
 * *News Summarisation using LLM*: Google’s Pegasus-Large Model finetined for ET markets data summarization. Built Flask API as an endpoint which is currently in production
 
-* *Summarization for Indic Languages*: Tested summarization models for Bangla, Tamil, Telugu, Malyalam, Marathi and Gujarati News
+* *Summarization for Indic Languages*: Tested summarization models for Bengali, Tamil, Telugu, Malyalam, Marathi and Gujarati News
 
 * *Keyword Recommendation for Articles (BERT + Solr)*: Designed a system for recommending Keywords
 for articles using Solr. Indexed Wikipedia data in solr search engine. Used BM25 for coarse search and BERT
